@@ -14,5 +14,3 @@ git config -global user.name "seu user" // envia a informação do user pro Gith
 git config user.name // confirma para saber se foi eniado ao user correto.
 git commit -m "mensagem" // comita o arquivo.
 git push // envia o arquivo. 
-
- 
