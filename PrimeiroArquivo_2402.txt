@@ -3,3 +3,14 @@ Matheus Henrique Ferreira Braz
 09:05
 turma: 34DS
 ETE "FMC"
+------------------------------------------------
+Comandos do git bash aprendidos até agora:
+
+git --version //
+git clone // clona o arquivo.
+git status // status do arquivo. 
+git add . // salva o arquivo quando alterado.
+git commit -m "mensagem" // comita o arquivo.
+git push // envia o arquivo. 
+
+ 
