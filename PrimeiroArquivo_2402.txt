@@ -6,7 +6,7 @@ ETE "FMC"
 ------------------------------------------------
 Comandos do git bash aprendidos até agora:
 
-git --version //
+git --version // mosta a versão do git.
 git clone // clona o arquivo.
 git status // status do arquivo. 
 git add . // salva o arquivo quando alterado.
